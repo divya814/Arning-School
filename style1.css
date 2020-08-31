@@ -1,0 +1,89 @@
+.best-line{
+  margin: 0% 40%;
+}
+
+#heading{
+    padding: 5% 5% 1%;
+    text-align: center;
+}
+#pricing{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 2%;
+}
+#seat{
+    text-align: center;
+    padding: 3%;
+}
+.book-now-btn{
+    font-size: larger;
+    padding: 1%;
+    margin-bottom: 2%;
+}
+.nseat{
+    background-color: black;
+    color: white;
+    padding: 1.5%;
+    margin: 0% 30%;
+}
+#download-material{
+    background-color: yellow;
+    padding: 3%;
+    text-align: center;
+}
+#feedback{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 3%;
+    margin-top: 4%;
+}
+#courses-features{
+    padding: 2% 1%;
+    margin-left: 1%;
+    line-height: 1.5rem;
+}
+#faq{
+    padding: 5% 1%;
+
+}
+#instant-contact{
+    padding: 4%;
+    text-align: center;
+}
+.ic-text{
+    padding-bottom: 3%;
+}
+#fotter{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 2%;
+}
+
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+    .heading-text{
+        font-size: medium;
+    }
+    .intro-video{
+        width: 100%;
+        height: 300px;
+    }
+    .nseat{
+        margin: auto;
+    }
+    .dm-text{
+        font-size: medium;
+    }
+    .f-text{
+        font-size: medium;
+    }
+    .ic-text{
+        font-size: medium;
+    }
+    .ic-btn{
+        padding: 3%;
+        font-size: x-large;
+        margin-bottom: 3%;
+        border-radius: 12px;
+    }
+
+}
